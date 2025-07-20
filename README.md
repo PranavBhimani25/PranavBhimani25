@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Pranav
 
 ## 🚀 About Me
 I'm a passionate developer who loves building innovative solutions and learning new technologies. Welcome to my GitHub profile!
 
 - 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
+- 🌱 I'm currently learning **.Net Framwork**
 - 👯 I'm looking to collaborate on **[Types of projects]**
 - 🤔 I'm looking for help with **[Areas where you want help]**
 - 💬 Ask me about **[Your expertise areas]**
