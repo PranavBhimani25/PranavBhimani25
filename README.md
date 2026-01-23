@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate developer who loves building innovative solutions and learning new technologies. Welcome to my GitHub profile!
 
-- 🔭 I'm currently working on **ITHelpDeskAPI** - A robust backend system for managing IT support tickets
+- 🔭 I'm currently working on **TechAssist** - A robust backend system for managing IT support tickets
 - 🌱 I'm currently learning **.NET Framework** and exploring advanced ASP.NET Core features
 - 👯 I'm looking to collaborate on **Backend API development, Clean Architecture projects, and Enterprise-level applications**
 - 🤔 I'm looking for help with **Microservices architecture, Advanced Entity Framework optimization, and DevOps practices**
@@ -62,17 +62,18 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PranavBhimani25&theme=radical)
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PranavBhimani25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📈 Activity Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PranavBhimani25&theme=radical)
+-->
 
 ## 🎯 Featured Projects
 
-### 🌟 [IT Help Desk API](https://github.com/pranavbhimani25/ithelpdeskapi)
+### 🌟 [Tech Assist](https://github.com/pranavbhimani25/TechAssistUI)
 A robust and scalable backend system for managing IT support tickets using clean architecture in ASP.NET Core.
 - **Tech Stack:** ASP.NET Core, Entity Framework Core, SQL Server, JWT, Swagger
 - **Features:**
@@ -84,10 +85,10 @@ A robust and scalable backend system for managing IT support tickets using clean
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-bhimani-1227a524b/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavbhimani04@example.com)
 
 ## 💝 Support My Work
 
@@ -97,19 +98,7 @@ If you find my projects helpful, consider buying me a coffee!
 
 ---
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://yourblog.com/post1)
-- [Blog Post Title 2](https://yourblog.com/post2)
-- [Blog Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
----
-
-⭐️ From [yourusername](https://github.com/yourusername)
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
-![Followers](https://img.shields.io/github/followers/yourusername?style=social)
 
 <!-- Animated typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Open+to+collaborating+on+projects!)](https://git.io/typing-svg)
