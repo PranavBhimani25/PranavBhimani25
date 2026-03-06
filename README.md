@@ -11,7 +11,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 - 📫 How to reach me: **pranavbhimani04@gmail.com**
 - 😄 Pronouns: **He/Him** 
 - ⚡ Fun fact: **I love building scalable solutions that solve real-world problems!**
-
+<img align="right" alt="coding" width="300" src="https://github.com/DevyManish/DevyManish/blob/main/cat.gif">
 ## 🛠️ Technologies & Tools
 ## 🚀 Tech Stack
 
