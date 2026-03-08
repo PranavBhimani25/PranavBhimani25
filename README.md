@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-03-05 at 8 23 27 PM](https://github.com/user-attachments/assets/50ce1852-8a72-4e20-b37a-afc5d3fd869a)# Hi there! 👋 I'm Pranav
+# Hi there! 👋 I'm Pranav
 
 ## 🚀 About Me
 I'm a passionate developer who loves building innovative solutions and learning new technologies. Welcome to my GitHub profile!
