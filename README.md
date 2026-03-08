@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Pranav
+![WhatsApp Image 2026-03-05 at 8 23 27 PM](https://github.com/user-attachments/assets/50ce1852-8a72-4e20-b37a-afc5d3fd869a)# Hi there! 👋 I'm Pranav
 
 ## 🚀 About Me
 I'm a passionate developer who loves building innovative solutions and learning new technologies. Welcome to my GitHub profile!
@@ -51,12 +51,6 @@ I'm a passionate developer who loves building innovative solutions and learning 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavBhimani25&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavBhimani25&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
 
